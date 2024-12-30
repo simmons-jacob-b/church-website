@@ -1,0 +1,38 @@
+#header {
+    font-size: xx-large;
+}
+
+body {
+    display: flexbox;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    background-color: blanchedalmond;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sections {
+    margin-bottom: 50px;
+}
+
+h2 {
+    margin-bottom: 0px;
+    font-weight: 100;
+
+}
+
+.contact-container {
+    display: flex;
+    width: 100%;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
